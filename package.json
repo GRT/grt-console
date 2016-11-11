@@ -1,0 +1,17 @@
+{
+  "name": "grt-console",
+  "version": "1.0.0",
+  "description": "grt-console",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GRT/grt-console.git"
+  },
+  "keywords": [],
+  "author": "Oakley Hall <ohall@grtmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GRT/grt-console/issues"
+  },
+  "homepage": "https://github.com/GRT/grt-console#readme"
+}
