@@ -39,4 +39,5 @@ var grtGiant = function grtGiant(msg){
   console.log(banner, style);
 };
 
-module.exports = [ grtBig, grtGiant ];
+module.exports.grtBig = grtBig;
+module.exports.grtGiant = grtGiant;
